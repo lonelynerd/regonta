@@ -1,9 +1,8 @@
 {
-    "TOKEN" : "MTA1NDE2Mjc1MjkwMzU3NzY1MQ.Gpthu_.NH4cFcV_roQ7SlcO4s-SRMpuvI6bNo2GwkQD98",
+    "TOKEN" : "PUT TOKEN HERE",
     "LOG_GUILD" : {
-        "GUILD_ID" : "935191563745787987",
-        "CHANNEL_ID" : "1054214522614849604"
+        "GUILD_ID" : "PUT GUILD ID HERE",
+        "CHANNEL_ID" : "PUT CHANNEL ID HERE"
     },
-    "VER_NUM":"0.1.6",
-    "NB_COMMS":6
+    "VER_NUM":"0.1.6.2",
 }
